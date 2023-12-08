@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240209886221",
+    "project_id": "chat-93760",
+    "storage_bucket": "chat-93760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240209886221:android:e174d53cf8847e541b6944",
+        "android_client_info": {
+          "package_name": "com.example.chatestesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8hE6qGAUFQMHpZgUOxGvNwZkASJpOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240209886221:android:92d2df2460c925e91b6944",
+        "android_client_info": {
+          "package_name": "com.example.conectamovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8hE6qGAUFQMHpZgUOxGvNwZkASJpOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
